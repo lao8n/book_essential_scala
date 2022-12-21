@@ -13,7 +13,9 @@ Thumbs.db
 /essential-scala/
 /essential-scala.zip
 /node_modules/
-
+.metals/*
+.vscode/*
+target/*
 essential-scala.sublime-workspace
 core-scala.sublime-workspace
 essential-scala

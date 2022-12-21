@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 [debug] not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/Users/nicholasdrake/Documents/essential-scala-master/project/"), "essential-scala-master-build")...
 [debug] Done updating ProjectRef(uri("file:/Users/nicholasdrake/Documents/essential-scala-master/project/"), "essential-scala-master-build")
+=======
+[0m[[0m[0mdebug[0m] [0m[0mnot up to date. inChanged = true, force = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mUpdating ProjectRef(uri("file:/C:/Users/lao8n/OneDrive/Documents/book_essential_scala/project/"), "book_essential_scala-build")...[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone updating ProjectRef(uri("file:/C:/Users/lao8n/OneDrive/Documents/book_essential_scala/project/"), "book_essential_scala-build")[0m
+>>>>>>> bae2a3e6df8fb617557fd5697175f085103ee25a
