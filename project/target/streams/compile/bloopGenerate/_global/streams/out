@@ -1,0 +1,4 @@
+[debug] [essential-scala-master-build] Classpath dependencies List()
+[debug] [essential-scala-master-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'essential-scala-master-build' to '/Users/nicholasdrake/Documents/essential-scala-master/project/.bloop/essential-scala-master-build.json'
+[success] Generated .bloop/essential-scala-master-build.json
